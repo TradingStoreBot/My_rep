@@ -1,8 +1,0 @@
-{
-  "first_name": "Anna",
-  "last_name": "Ivanova",
-  "age": 23,
-  "children": [
-    {"first_name": "Pety", "age": 2}
-  ]
-}
