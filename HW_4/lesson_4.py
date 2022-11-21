@@ -150,3 +150,8 @@
 # d = func_4()
 #
 # print(a, b,c, d)
+
+
+from ..HW_16 import simple_fun
+
+simple_fun()
